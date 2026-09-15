@@ -4,7 +4,7 @@ A responsive image slider showcasing cars, built with **JavaScript**, **Bootstra
 
 ##  Live Demo
 
-> *[Add your GitHub Pages URL here after deployment]*
+> *https://enesberk00.github.io/slider-app/*
 
 ## Features
 
